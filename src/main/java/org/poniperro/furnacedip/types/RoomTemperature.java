@@ -1,4 +1,4 @@
-package org.foobarspam.furnacedip.types;
+package org.poniperro.furnacedip.types;
 
 public class RoomTemperature {
 	

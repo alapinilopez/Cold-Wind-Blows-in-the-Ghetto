@@ -70,7 +70,7 @@
           <archive>
             <manifest>
               <addClasspath>true</addClasspath>
-              <mainClass>org.foobarspam.furnacedip.main.App</mainClass>
+              <mainClass>org.poniperro.furnacedip.main.App</mainClass>
             </manifest>
             <manifestEntries>
               <url>${project.url}</url>

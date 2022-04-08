@@ -1,7 +1,7 @@
-package org.foobarspam.furnacedip.hardware;
+package org.poniperro.furnacedip.hardware;
 
-import org.foobarspam.furnacedip.interfaces.Heater;
-import org.foobarspam.furnacedip.types.RoomTemperature;
+import org.poniperro.furnacedip.interfaces.Heater;
+import org.poniperro.furnacedip.types.RoomTemperature;
 
 public class GasHeater implements Heater {
 	

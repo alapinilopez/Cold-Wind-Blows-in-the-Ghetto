@@ -1,7 +1,7 @@
-package org.foobarspam.furnacedip.hardware;
+package org.poniperro.furnacedip.hardware;
 
-import org.foobarspam.furnacedip.interfaces.Thermometer;
-import org.foobarspam.furnacedip.types.RoomTemperature;
+import org.poniperro.furnacedip.interfaces.Thermometer;
+import org.poniperro.furnacedip.types.RoomTemperature;
 
 public class RemoteCommandSensor implements Thermometer {
 	

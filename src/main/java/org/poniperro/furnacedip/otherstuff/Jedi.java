@@ -1,8 +1,8 @@
-package org.foobarspam.furnacedip.otherstuff;
+package org.poniperro.furnacedip.otherstuff;
 
-import org.foobarspam.furnacedip.hardware.GasHeater;
-import org.foobarspam.furnacedip.interfaces.Heater;
-import org.foobarspam.furnacedip.types.RoomTemperature;
+import org.poniperro.furnacedip.hardware.GasHeater;
+import org.poniperro.furnacedip.interfaces.Heater;
+import org.poniperro.furnacedip.types.RoomTemperature;
 
 public class Jedi implements Heater {
 	
